@@ -1,0 +1,32 @@
+.bg-auralyn {
+    color: #ff3255;
+}
+
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
+    h1{
+    font-weight: bold;
+    }
+    .modal-content{
+    border-radius: 0px;
+    }
+    .modal-footer .btn{
+    border-radius: 0px;
+    padding: 15px;
+    }
+    .btn-secondary:active:focus{
+    box-shadow: none;
+    }
+    footer {
+      background: #ebf4fa;
+    }
+.nav {
+  position:fixed !important;
+  width: 100%;
+  top:0%;
+}
